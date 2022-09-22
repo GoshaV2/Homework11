@@ -5,6 +5,7 @@ public class Main {
         leapYearCheck(2024);
         versionSuggestion((byte)1,2021);
         System.out.println("Потребуется дней: "+daysOfDelivery(95));
+        //
     }
 
     private static void leapYearCheck(int year){
